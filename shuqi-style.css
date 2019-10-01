@@ -1,0 +1,124 @@
+/* FIRST ITERATION */
+
+body.shuqi-1 {
+  background: #000000;
+  font-family: 'roboto', sans-serif ;
+  margin: 360px ;
+  text-align: center;
+}
+body.shuqi-1 .one {
+  font-family: #DC143C;
+  font-size: 30px;
+  font-weight:  normal;
+  text-decoration: none;
+  text-align: left;
+  padding: 0px;
+  color: #FFD700;
+  opacity: 100%;
+}
+
+body.shuqi-1 .two {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration:none ;
+  text-align: left;
+  padding:0px ;
+  color: #FFD700;
+  opacity: 100%;
+}
+body.shuqi-1 .three{
+  font-family: 'roboto';
+  font-size: 100px;
+  font-weight: bold;
+  text-decoration: line-through;
+  text-align: center;
+  padding: 0px;
+  color: #FFD700;
+  opacity: 80%;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.shuqi-2 {
+ background: #800080;
+  font-family: 'Impact';
+  margin: 50px ;
+  text-align: left;
+}
+body.shuqi-2 .one {
+  font-family: 'Impact';
+ font-size:200px;
+  font-weight: normal;
+  text-decoration:none ;
+  text-align: center;
+  padding:0px ;
+  color: #ffffff;
+  opacity: 100%;}
+  
+body.shuqi-2 .two {
+  font-family: 'impact';
+  font-size:200px;
+  font-weight:  normal;
+  text-decoration:none;
+  text-align: center;
+  padding: 0px;
+  color: #ffffff;
+  opacity: 100%;
+}
+body.shuqi-2 .three{
+ font-family: 'impact';
+ font-size:200px;
+  font-weight:bold;
+  text-decoration:none;
+  text-align: center;
+  padding: 0px;
+  color: #ffffff;
+  opacity: 100%;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.shuqi-3 {
+  background: #ffffff;
+  font-family: 'Arial';
+  margin: 360px ;
+  text-align: center;
+}
+
+body.shuqi-3 .one {
+ font-family: 'Impact';
+ font-size: 80px;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: right;
+  padding: 0px;
+  color: #000000;
+  opacity: 80%;
+}
+
+body.shuqi-3 .two {
+font-family: 'Impact';
+ font-size: 80px;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: right;
+  padding: 0px;
+  color: #000000;
+  opacity: 80%;
+}
+
+body.shuqi-3 .three{
+  font-family: 'Impact';
+ font-size: 80px;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: right;
+  padding: 0px;
+  color: #000000;
+  opacity: 80%;
+}
